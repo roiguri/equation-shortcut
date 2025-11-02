@@ -73,8 +73,5 @@
   // Also try to detect iframe immediately in case it's already loaded
   detectIframe();
 
-  // Fallback: Add listener to main document as well (may help in some cases)
-  document.addEventListener('keydown', handleKeyPress, true);
-
   console.log('[Equation Shortcut] Content script initialized, watching for iframe...');
 })();
