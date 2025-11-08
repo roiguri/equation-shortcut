@@ -26,7 +26,7 @@ Add **Alt+=** keyboard shortcut to Google Docs for inserting equations, matching
 
 Automatically fills form fields with saved values. Currently supports TAU login ID field, with extensible architecture for future multi-site support.
 
-- **Status:** 🚧 In Development
+- **Status:** ✅ Production Ready
 - **Version:** 1.0.0
 - **Current Implementation:** TAU Login (nidp.tau.ac.il)
 - **Features:**
@@ -79,10 +79,6 @@ Contributions welcome! Each extension is independent:
 1. **New Extensions:** Create a new directory at root level
 2. **Bug Fixes:** Submit PRs to the specific extension directory
 3. **Features:** Propose new extensions or enhancements via Issues
-
-## License
-
-MIT License - See individual extension directories for details.
 
 ## Support
 
